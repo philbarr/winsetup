@@ -5,6 +5,8 @@ choco install googledrive
 choco install calibre
 choco install 7zip
 choco install 7zip.commandline 
+choco install lockhunter
+choco install keepass
 
 # graphics
 choco install inkscape
