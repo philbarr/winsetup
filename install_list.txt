@@ -1,3 +1,6 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
 # tools
 choco install dropbox
 choco install gow
@@ -55,6 +58,7 @@ choco install toad.mysql
 
 # scm
 choco install git.install
+choco install git-credential-winstore
 choco install TortoiseGit
 choco install GitHub
 choco install svn
