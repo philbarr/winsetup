@@ -12,7 +12,6 @@ choco install keepass
 choco install baretail
 
 # graphics
-choco install colorpic
 
 # editors
 choco install atom

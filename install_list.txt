@@ -14,7 +14,6 @@ choco install baretail
 
 # graphics
 choco install inkscape
-choco install colorpic
 choco install blender
 choco install gimp
 
