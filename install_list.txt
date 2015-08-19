@@ -25,6 +25,7 @@ choco install VisualStudio2012Professional
 choco install atom
 choco install lighttable
 choco install notepadplusplus
+choco install adobereader
 
 # browsers
 choco install firefox

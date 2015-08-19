@@ -11,7 +11,8 @@ choco install lockhunter
 choco install keepass
 choco install baretail
 
-# graphics
+# readers
+choco install adobereader
 
 # editors
 choco install atom
