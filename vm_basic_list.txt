@@ -12,4 +12,5 @@ choco install programmersnotepad
 # browsers
 choco install firefox
 
-# languages
+# keepawake
+choco install IdleVbs -source https://www.myget.org/F/joshrivers-utility/
